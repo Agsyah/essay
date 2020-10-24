@@ -1,9 +1,9 @@
-## How to add
+# How to add
 
-1. Create new file with name *.md (* name of subject)
+### 1. Create new file with name *.md (* name of subject)
 ![1](https://i.ibb.co/FJBzP37/Screenshot-168.png)
 
-2. Add text inside that
+### 2. Add text inside that
 ```
 Subject: name
 
@@ -11,7 +11,8 @@ Text here.....
 ```
 
 ![2](https://i.ibb.co/hDtFxZG/Screenshot-169.png)
-3. Make pull request
+
+### 3. Make pull request
 ![3](https://i.ibb.co/sKc2HDh/Screenshot-170.png)
 
 ![4](https://i.ibb.co/d21dwvr/Screenshot-171.png)
@@ -22,6 +23,6 @@ Text here.....
 
 ![7](https://i.ibb.co/VtPzhbf/Screenshot-174.png)
 
-4. Wait until get accepted
+### 4. Wait until get accepted
 
 Now, you contribute to essay repository
