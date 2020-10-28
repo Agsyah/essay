@@ -1,0 +1,3 @@
+Subject: Argument
+
+"Gun control has been a controversial issue for years. A vast majority of citizens believe that if gun control is strictly enforced, it would quickly reduce the threat of crime. Many innocent people feel they have the right to bear arms for protection, or even for the pleasure of hunting. These people are penalized for protecting their lives, or even for enjoying a common, innocent sport. To enforce gun control throughout the nation means violating a person's Constitutional rights. Although some people feel that the issue of gun control will limit crime, the issue should not exist due to the fact that guns are necessary for self defense against crime, and enforcing gun control is violating a citizen's second amendment right to bear arms."
